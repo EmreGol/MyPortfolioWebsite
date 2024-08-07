@@ -25,7 +25,7 @@ const navLinks = [
 const Navbar = () => {
     const [navbarOpen, setNavbarOpen] = useState(false)
   return (
-    <nav className='fixed top-0 left-0 right-0 z-10 bg-black bg-opacity-90 backdrop-blur-sm lg:px-24 md:px-14 sm:px-5'>
+    <nav className='fixed top-0 left-0 right-0 z-10 bg-black bg-opacity-90 backdrop-blur-sm lg:px-24 md:px-14 px-1'>
         <div className='flex flex-wrap items-center justify-between mx-auto p-6'>
             <Link href={'/'} className='bg-gradient-to-r from-purple-600 to-pink-700 bg-clip-text text-transparent font-bold text-3xl font-sacramento'>EmreGol</Link>
             <div className="mobile-menu block md:hidden">
