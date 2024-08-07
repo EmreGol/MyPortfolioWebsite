@@ -5,8 +5,8 @@ const HeroSection = () => {
   return (
     <section className='h-screen w-full flex flex-col items-center justify-center relative'>
       <div className='text-center text-white text-3xl md:text-4xl lg:text-5xl font-thin lg:px-52 px-10 sm:px-32 md:px-44'>
-        <span className=''>
-          I'm Emre, a {" "}
+        <span>
+          I&apos;m Emre, a{" "}
         </span>
         <span className='font-bold'>Software Engineer</span>
         <span>
