@@ -58,7 +58,7 @@ const Navbar = () => {
                     <Link href="https://www.linkedin.com/in/faruk-emre-g%C3%B6l-a48a5a226/"><FaLinkedin size={24} color="white" /></Link>
                 </div>
                 <div className="">
-                    <Link href=""><FaGithub size={24} color="white" /></Link>
+                    <Link href="https://github.com/EmreGol"><FaGithub size={24} color="white" /></Link>
                 </div>
             </div>
         </div>
