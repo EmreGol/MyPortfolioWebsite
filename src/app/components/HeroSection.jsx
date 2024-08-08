@@ -8,7 +8,7 @@ const HeroSection = () => {
         <span>
           I&apos;m Emre, a{" "}
         </span>
-        <span className='font-bold'>Software Engineer</span>
+        <span className='font-semibold'>Software Engineer</span>
         <span>
           {" "} who turns tech jargon into user-friendly magic.
         </span>

@@ -52,7 +52,7 @@ const Navbar = () => {
                     }
                 </ul>
             </div>
-            <div className="left-1 sm:left-5 text-white absolute flex flex-col space-y-2 items-center justify-center">
+            <div className="left-1 md:left-5 text-white absolute flex flex-col space-y-2 items-center justify-center">
                 <div className="h-52 w-[0.5px] bg-white"></div>
                 <div className="">
                     <Link href="https://www.linkedin.com/in/faruk-emre-g%C3%B6l-a48a5a226/"><FaLinkedin size={24} color="white" /></Link>
